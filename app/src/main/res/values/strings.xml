@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Rolling Game</string>
+    <string name="Arthor">Student ID:w1830958\n\n Student name: Mohamed Mohamed</string>
+    <string name="statement">\nI confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the EssentialInformation for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referencedand acknowledged.\n\n</string>
+    <string name="exit">Exit</string>
+    <string name="Rules">\n\n when a player clicks on new Game button. the game will lunch with a window that asking for the target score which is the highest score a player needs to get to win the game. there is a section below it asking for name and if not entered, they will be called player. \nwhen game starts they will click on throw to play the game. \nthey are allowed to throw the until they reach the target score which is entered by user. \nif not entered, the defualt value is 101. \nthey will play against the computer. \nplayer is allowed to re roll their dice twice with each roll section and once they click on score or the roll button, that round will end.\n\n</string>
+</resources>
